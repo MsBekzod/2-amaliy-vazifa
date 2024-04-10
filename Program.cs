@@ -42,8 +42,8 @@ System.Console.WriteLine($"1 dan {son} songacha bo'lgan raqamlar yig'indisi {mis
 // 3. Paritet tekshiruvi.
 
 System.Console.Write("Salom bu yana men, Ixtiyoriy natural sonni kiriting:");
-int son = Convert.ToInt32(Console.ReadLine());
-if (son%2 == 0)
+int sonn = Convert.ToInt32(Console.ReadLine());
+if (sonn%2 == 0)
 {
 System.Console.WriteLine("Kiritgan soningiz Juft");
 }
