@@ -1,4 +1,4 @@
-﻿// // 1. Kalkulyator.
+﻿// 1. Kalkulyator.
     
     System.Console.Write("Enter first Number:");
     double n1= Convert.ToDouble(Console.ReadLine());
@@ -30,7 +30,7 @@
 
         
 
-// // 2. Raqamlar qatorining yig'indisini  hisoblash.
+// 2. Raqamlar qatorining yig'indisini  hisoblash.
 
 System.Console.Write("Salom, ixtiyoriy natural son yozing:");
 int son =Convert.ToInt32(Console.ReadLine());
