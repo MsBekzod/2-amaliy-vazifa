@@ -45,11 +45,11 @@ System.Console.Write("Salom bu yana men, Ixtiyoriy natural sonni kiriting:");
 int son = Convert.ToInt32(Console.ReadLine());
 if (son%2 == 0)
 {
-System.Console.WriteLine("Juft");
+System.Console.WriteLine("Kiritgan soningiz Juft");
 }
 else 
 {
-System.Console.WriteLine("Toq");
+System.Console.WriteLine("Kiritgan soningiz Toq");
 }
             
  
